@@ -1,0 +1,36 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    box-shadow: none;
+}
+.logo-image{
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    position: relative;
+    bottom: 2px;
+    margin-right: 8px;
+    
+}
+.head{
+    display: flex;
+    flex-direction:row ;
+    margin-left: 34rem;
+    margin-top: 56px;
+    font-size: 23px;
+    
+}
+.back-img{
+    background-repeat: no-repeat;
+    background-position-x: left;
+    
+}
+.icon{
+    display: flex;
+    margin-left: 55px;
+    margin-bottom: 15px;
+  
+    
+    font-size: 2rem;
+}

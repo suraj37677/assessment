@@ -1,0 +1,19 @@
+.h-wrapper{
+    background-color: azure;
+    color: white;
+}
+.h-container{
+    justify-content: space-between;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    list-style-type: none;
+}
+.h-container>img{
+ font-size: 2rem;
+
+}
+.h-menu{
+    gap: 2rem;
+    list-style-type: none;
+
+}
